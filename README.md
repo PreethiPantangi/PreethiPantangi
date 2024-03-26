@@ -38,3 +38,7 @@
       width="40"
   /></a>
 </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=preethipantangi&show_icons=true&locale=en&layout=compact" alt="preethipantangi" /></p> 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preethipantangi&" alt="preethipantangi" /></p>
