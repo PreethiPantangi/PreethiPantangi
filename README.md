@@ -1,4 +1,3 @@
-![MasterHead](./media/all_logos.png)
 <h1 align="center">Hi 👋, I'm Preethi Pantangi</h1>
 <h3 align="center">A Software Engineer with a knack for turning bytes into insights.</h3>
 
