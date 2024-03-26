@@ -4,6 +4,9 @@
 </h3>
 
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preethipantangi&label=Profile%20views&color=0e75b6&style=flat" alt="preethipantangi" /> </p>
+
 <p>
   <img
     align="right"
