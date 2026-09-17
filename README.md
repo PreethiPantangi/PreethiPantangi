@@ -1,8 +1,5 @@
 # 💫 About Me:
-- Backend or data engineering projects involving real-world API integrations,pipeline design, or distributed systems especially anything shipping to production at scale
--  AI Engineering — RAG pipelines, multimodal models, LLM serving infrastructure, and how prefill/decode separation changes system architecture
--  Building XML schema contracts with referential integrity, Angular + TypeScript frontend architecture, or turning a legacy on-prem system into modern microservices 
-- Personal Knowledge Graph — an AI-powered system that ingests daily Instagram saved post exports from Google Drive, extracts structured knowledge from videos, photos, and carousels using multimodal AI, and enables semantic search across your entire saved content history.
+- Backend or data engineering projects involving real-world API integrations, pipeline design, or distributed systems especially anything shipping to production at scale
 - I moved to the US, finished my Master's in 1.5 years to hit a better job market window, and I've been shipping side projects ever since — because waiting for the perfect job isn't a strategy
 
 ## 🌐 Socials:
