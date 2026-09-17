@@ -1,6 +1,7 @@
 # 💫 About Me:
 - Backend or data engineering projects involving real-world API integrations, pipeline design, or distributed systems especially anything shipping to production at scale
 - I moved to the US, finished my Master's in 1.5 years to hit a better job market window, and I've been shipping side projects ever since — because waiting for the perfect job isn't a strategy
+- Merged my first Open Source PR into the Home Assistant Frontend repo. PR [#54115](https://github.com/home-assistant/frontend/pull/54115)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preethipantangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pantangisaipreethi@gmail.com) 
