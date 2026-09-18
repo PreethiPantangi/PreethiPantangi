@@ -2,7 +2,7 @@
 - Backend or data engineering projects involving real-world API integrations, pipeline design, or distributed systems especially anything shipping to production at scale
 - I moved to the US, finished my Master's in 1.5 years to hit a better job market window, and I've been shipping side projects ever since — because waiting for the perfect job isn't a strategy
 
-## 🌐 Open Source Contributions:
+## 👩‍💻 Open Source Contributions:
 - Home Assistant Frontend repo. PR [#54115](https://github.com/home-assistant/frontend/pull/54115) - ✅Merged
 - npmx-dev, PR [#2660](https://github.com/npmx-dev/npmx.dev/pull/2660)  - ⚠️Proposed a fix but was moved to needs discussion
  
