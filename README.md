@@ -3,8 +3,8 @@
 - I moved to the US, finished my Master's in 1.5 years to hit a better job market window, and I've been shipping side projects ever since — because waiting for the perfect job isn't a strategy
 
 ## 🌐 Open Source Contributions:
-- Home Assistant Frontend repo. PR [#54115](https://github.com/home-assistant/frontend/pull/54115) - [x]Merged
-- npmx-dev, PR [#2660](https://github.com/npmx-dev/npmx.dev/pull/2660)  - [⚠️]Proposed a fix but was moved to needs discussion
+- Home Assistant Frontend repo. PR [#54115](https://github.com/home-assistant/frontend/pull/54115) - ✅Merged
+- npmx-dev, PR [#2660](https://github.com/npmx-dev/npmx.dev/pull/2660)  - ⚠️Proposed a fix but was moved to needs discussion
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/preethipantangi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pantangisaipreethi@gmail.com) 
